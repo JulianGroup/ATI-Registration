@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // This form structure ONLY exists in Javascript now. Google bots won't see it naturally.
     const formHTML = (name, mobile) => `
         <form id="incidental-form">
-            <input type="hidden" id="propertyName" name="propertyName" value="Tucker Peak Lodge">
+            <input type="hidden" id="propertyName" name="propertyName" value="Julian Apple Tree Inn">
             
             <!-- Summary Box -->
             <div style="background-color: #f3f4f6; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem; display: flex; justify-content: space-between; align-items: center;">
